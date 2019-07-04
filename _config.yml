@@ -41,14 +41,14 @@ logo:                  /assets/icons/icon.jpeg
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                Cédric Malherbe
-  email:               <mail@domain.tld>
+  email:               cedric.malherb@gmail.com
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
   - title:             Welcome
-    url:               /example/
+    url:               /welcome/
   - title:             Resume
     url:               https://https://cmalherbe.github.io
   - title:             Documentation

@@ -3,7 +3,7 @@
 # You can change `author1` to your shortname.
 author1:
   # Replace <...> with your own (remove the < >)
-  name:              <firstname> <lastname>
+  name:              Cédric Malherbe
   email:             <mail@domain.tld>
 
   # Used at the bottom of each page and at the top of the `about` layout
@@ -29,7 +29,7 @@ author1:
     #twitter:         jekyllrb
     github:          CMalherbe
     # download:        <url>
-    # email:           <mail@domain.tld>
+    email:           cedric.malherb@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
