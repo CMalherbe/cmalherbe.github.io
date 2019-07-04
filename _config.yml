@@ -50,11 +50,10 @@ menu:
   - title:             Welcome
     url:               /welcome/
   - title:             Resume
-    url:               https://https://cmalherbe.github.io
-  - title:             Documentation
-    url:               https://https://cmalherbe.github.io
-  - title:             About
-    url:               /about/
+    url:               /resume/
+  - title:             Research
+    url:               /research/
+
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
