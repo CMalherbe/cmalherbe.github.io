@@ -24,12 +24,11 @@ title:                 Cédric Malherbe
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Data Scientist / Machine Learning / Optimization
+  Data Scientist / Machine Learning / Optimization / Test
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Best Jekyll Theme by a Mile".
-  Open `_config.yml` to edit this text.
+  Data Scientist / Machine Learning / Optimization
 
 # A list of keywords for your blog
 keywords:              []
