@@ -4,7 +4,7 @@
 layout: about
 
 # The title of the page.
-title: About
+title: Welcome
 
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
@@ -19,7 +19,13 @@ hide_description: true
 image: /assets/img/blog/hydejack-8.png
 ---
 
-The "Best Jekyll Theme by a Mile".
+I am a post-doctoral research at École Normale Supérieure, Paris, in the laboratory of Gabriel Peyré. I hold a Ph.D. in machine learning, prepared in Inria Parietal team, from 2015 to 2018.
+
+I am currently working in structured prediction, optimal transport and game theory.
+
+My Ph.D. was obtained under the supervision of Gaël Varoquaux, Julien Mairal and Bertrand Thirion. I developed new stochastic algorithms and multi-task models for terabyte sized fMRI dataset analysis.
+
+My detailed resume can be found here. More details on my research and on software.
 {:.lead}
 
 ![Screenshot](assets/img/blog/hydejack-8.png){:.lead}
